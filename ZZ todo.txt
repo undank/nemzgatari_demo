@@ -1,0 +1,22 @@
+TO DO:
+
+--Level 1
+add a button to skip controller video
+split into two levels? daily activities and then stream prep?
+
+--Level 2
+add initial hob background
+add ElaWin and ElaLose paths
+
+--Level 3
+Add zero images and background
+change victory music - pokeon sucks
+
+
+progression:
+
+start with subway
+then rizz up e-girl to become GF by saying you are a streamer
+play dead by deadlight
+message from e-girl on discord - if you reply, bad ending
+walk dog, get confronted by: child with knife
