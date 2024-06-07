@@ -55,7 +55,7 @@ monogatari.script ({
 		'show character herowars Normal',
 		"herowars Thanks for clarifying we aren't a crypto miner scam Nemz. Clan it up!",
 		'hide character herowars',
-		'y Ahh, everything is finally back to normal. I guess I should start finally start my stream.',
+		'y Ahh, everything is finally back to normal. I guess I should finally start my stream.',
 		'y Time to stick to a normal streaming schedule! Three hour streams, twice a week, at least!',
 		'y I will finally do the DS3 All Achievements run!',
 		'y Unless....?',
