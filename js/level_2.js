@@ -133,7 +133,8 @@ monogatari.script ({
 
 	'ElaLose' : [
 		'play music pizzaog with fadeIn',
-		"ela Haha! You didn't stand a chance against the Sweden Slice Swallower!",
+		"ela Haha! You didn't stand a chance against the Swedish Slice Swallower!",
+		"ela Ahh, that was satisfying. I am in a good mood, so I will help you out anyway.",
 
 		'jump LevelTwoChoiceMenu',
 	],
